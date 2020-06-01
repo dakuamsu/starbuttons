@@ -186,7 +186,8 @@
         "to": 2599
       }
     }
-  }, {
+  },
+  {
     "//": "English translation via https://www.youtube.com/watch?v=_B-Q10J9KSg",
     "name": "It's your diamond in the rough, your shooting star,​ Hoshimachi Suisei, in the flash!",
     "name_l10n": {
@@ -201,6 +202,23 @@
       "time": {
         "from": 11.4,
         "to": 14.5
+      }
+    }
+  },
+  {
+    "//":"For translators: this is a meme of Watame, see https://www.youtube.com/watch?v=PJf3XZ636-0",
+    "name": "I'm not invited!!",
+    "name_l10n": {
+      "zh": "我没有被邀请！!",
+      "ja": "私誘われていないんだけど！!"
+    },
+    "file": "watasisasowaretenai.mp3",
+    "metadata": {
+      "site": "youtube",
+      "identifier": "PJf3XZ636-0",
+      "time": {
+        "from": 66.0,
+        "to": 67.8
       }
     }
   }
